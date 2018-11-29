@@ -1,5 +1,4 @@
-# JOrcamento-Domestico
-Este foi o primeiro projeto desenvolvido por mim (usando linguagens de programação). É um gestor de orçamento doméstico feito em Java SE 7
+# Preview
 ![jorcamento-ajuda](https://i.ibb.co/cN790XY/1.jpg)
 
 # Como utilizar
