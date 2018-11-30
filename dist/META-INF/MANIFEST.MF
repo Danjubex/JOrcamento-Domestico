@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.7.0-b147 (Oracle Corporation)
+Class-Path: lib/jcommon-1.0.17.jar lib/jfreechart-1.0.14-experimental.
+ jar lib/jfreechart-1.0.14-swt.jar lib/jfreechart-1.0.14.jar lib/swtgr
+ aphics2d.jar lib/AbsoluteLayout.jar lib/toplink-essentials.jar lib/to
+ plink-essentials-agent.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: orcamento.quadros.Login
+SplashScreen-Image: META-INF/splash.png
+
